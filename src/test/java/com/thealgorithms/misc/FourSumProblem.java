@@ -12,6 +12,11 @@ public final class FourSumProblem {
     /**
      * The function "fourSum" takes an array of integers and a target integer as input, and returns
      * a list of unique quadruplets such that their sum is equal to the target.
+     * 
+     * More details on the Four Sum problem can be found at:
+     * https://www.interviewkickstart.com/blogs/problems/4sum
+     * 
+     * 
      * @param nums An array of integers.
      * @param target The target sum that we are trying to find using four numbers from the given array.
      * @return A list of unique quadruplets where the sum of elements equals the target.
